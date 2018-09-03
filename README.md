@@ -3,7 +3,7 @@
 ## Introduction
 Predual dictionary learning (PDL) / augmented Lagrangian multi-scale dictionary learning(ALM-DL)  
 
-# About our code
+## About our code
 The Code is created based on the method described in the following papers:   
 This idea was originally motivated from the predual dictionary learning (PDL)【1】  
 Later, we found that it also can be derived from the view of augmented Lagrangian【2】  
