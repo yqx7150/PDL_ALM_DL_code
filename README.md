@@ -19,3 +19,5 @@ The learned dictionaries in the iterative process by K-SVD.
 
 ## Other Related Projects
   * Synthesis-analysis deconvolutional network for compressed sensing [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8296620)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SADN)
+  
+  * Convolutional Sparse Coding in Gradient Domain for MRI Reconstruction [<font size=5>**[Paper]**</font>](http://html.rhhz.net/ZDHXBZWB/html/2017-10-1841.htm)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GradCSC)
