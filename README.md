@@ -18,6 +18,8 @@ The learned dictionaries in the iterative process by K-SVD.
 
 
 ## Other Related Projects
+  * Adaptive dictionary learning in sparse gradient domain for image recovery [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/6578193/)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/GradDL) 
+  
   * Field-of-Experts Filters Guided Tensor Completion [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8291751/similar#similar)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/FoE_STDC)
   
   * Synthesis-analysis deconvolutional network for compressed sensing [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8296620)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/SADN)
